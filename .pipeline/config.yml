@@ -1,5 +1,3 @@
-//pipeline steps configuration
-
 steps:
   integrationArtifactDeploy:
     cpiApiServiceKeyCredentialsId: techedServiceKeyCred
